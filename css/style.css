@@ -1,0 +1,97 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 65px;
+    font-family: bebas Neue;
+    letter-spacing: 2px;
+}
+.nav-menu{
+    font-weight: bold;
+    padding: 0px 15px !important;
+}
+
+h2{
+    font-size: 48px;
+    font-family: bebas Neue;
+}
+h4{
+    font-weight: bold;
+}
+h5{
+    font-weight: bold;
+    font-family: roboto;
+}
+span{
+    color: #FABE4C;
+}
+.penguin-header{
+    background-color: #FFFBF0;
+}
+.jacket-size{
+    height: 400px;
+    width: 300px;
+    padding: 10px;
+    align-items: center;
+    margin-left: 25px;
+    margin-top: 10px;
+    background-color:#F1F1F1;
+    background-size: cover;
+    border-radius: 10px;
+}
+.panda-card{
+    border: 0;
+}
+.btn{
+    color: white;
+    border-radius: 10px;
+    background: #A4BC46;
+    border: none;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+}
+h3{
+    color: #FABE4C;
+    font-size: 36px;
+}
+.a1{
+    text-align: center;
+    padding-top: 20px;
+}
+.b1{
+    padding: 30px 0px;
+}
+.bb{
+    padding-bottom: 40px;
+}
+.aaa{
+    padding-bottom: 20px;
+}
+
+
+@media (min-width: 320px) and (max-width: 500px){
+    .bbb{
+        flex-direction: column-reverse;
+    }.b1{
+        text-align: center;
+    }.bb{
+        padding: 20px 0px 40px 0px;
+    }h1{
+        font-size: 65px;
+        font-family: bebas Neue;
+        letter-spacing: 2px;
+        text-align: center;
+    }
+}
+@media (min-width: 501px) and (max-width: 768px){
+
+}
+@media (min-width: 768.01px) and (max-width: 992px){
+
+}
+@media (min-width: 1200.01px){
+
+}
